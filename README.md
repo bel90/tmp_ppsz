@@ -14,5 +14,5 @@ How to start on Windows:
 How to start on Linux:
 1. Get into the directory where the project is.
 2. Install django on this enviroment with: pip install django
-3. Initialise with: python manage.py migrate
+3. Initialise with: python3 manage.py migrate
 4. Run the server with: python3 manage.py runserver
