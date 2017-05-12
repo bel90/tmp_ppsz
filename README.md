@@ -16,3 +16,5 @@ How to start on Linux:
 2. Install django on this enviroment with: pip install django
 3. Initialise with: python3 manage.py migrate
 4. Run the server with: python3 manage.py runserver
+
+After you have started the Server you can check your Browser on this site: http://127.0.0.1:8000/todo/
