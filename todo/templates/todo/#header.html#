@@ -1,0 +1,9 @@
+<header class="container">
+            <div class="row" style="background: #3b5998;">
+                <p class="col-xs-12 col-sm-12 text-right" style="color: white;">
+                    <a class="btn btn-info" href="{% url 'todo:index'%}" style="color: white;">Startseite </a>
+                    <a class="btn btn-info" href="{% url 'todo:newtodo'%}" style="color: white;">Neues TODO </a>
+                    <a class="btn btn-info" href="howto.html" style="color: white;">FAQ </a>
+                </p>
+            </div>
+</header>
